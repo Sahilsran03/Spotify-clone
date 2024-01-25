@@ -1,2 +1,2 @@
 # Spotify-clone
-Interface of spotify application
+Interface of spotify application.
